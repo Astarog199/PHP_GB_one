@@ -1,0 +1,16 @@
+/*  шапка сайта */
+
+.header {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    width: 100%;
+
+}
+
+.wrapped {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
